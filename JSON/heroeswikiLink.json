@@ -1,0 +1,622 @@
+[
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Alchemist",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/alchemist",
+    "nome": "Alchemist"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Axe",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/axe",
+    "nome": "Axe"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Bristleback",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/bristleback",
+    "nome": "Bristleback"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Centaur_Warrunner",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/centaur-warrunner",
+    "nome": "Centaur Warrunner"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Chaos_Knight",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/chaos-knight",
+    "nome": "Chaos Knight"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Dawnbreaker",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/dawnbreaker",
+    "nome": "Dawnbreaker"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Doom",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/doom",
+    "nome": "Doom"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Dragon_Knight",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/dragon-knight",
+    "nome": "Dragon Knight"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Earth_Spirit",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/earth-spirit",
+    "nome": "Earth Spirit"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Earthshaker",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/earthshaker",
+    "nome": "Earthshaker"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Elder_Titan",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/elder-titan",
+    "nome": "Elder Titan"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Huskar",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/huskar",
+    "nome": "Huskar"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Kunkka",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/kunkka",
+    "nome": "Kunkka"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Legion_Commander",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/legion-commander",
+    "nome": "Legion Commander"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Lifestealer",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/lifestealer",
+    "nome": "Lifestealer"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Mars",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/mars",
+    "nome": "Mars"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Night_Stalker",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/night-stalker",
+    "nome": "Night Stalker"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Ogre_Magi",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/ogre-magi",
+    "nome": "Ogre Magi"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Omniknight",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/omniknight",
+    "nome": "Omniknight"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Primal_Beast",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/primal-beast",
+    "nome": "Primal Beast"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Pudge",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/pudge",
+    "nome": "Pudge"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Slardar",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/slardar",
+    "nome": "Slardar"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Spirit_Breaker",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/spirit-breaker",
+    "nome": "Spirit Breaker"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Sven",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/sven",
+    "nome": "Sven"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Tidehunter",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/tidehunter",
+    "nome": "Tidehunter"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Tiny",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/tiny",
+    "nome": "Tiny"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Treant_Protector",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/treant-protector",
+    "nome": "Treant Protector"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Tusk",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/tusk",
+    "nome": "Tusk"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Underlord",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/underlord",
+    "nome": "Underlord"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Undying",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/undying",
+    "nome": "Undying"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Wraith_King",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/wraith-king",
+    "nome": "Wraith King"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Anti-Mage",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/anti-mage",
+    "nome": "Anti-Mage"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Arc_Warden",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/arc-warden",
+    "nome": "Arc Warden"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Bloodseeker",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/bloodseeker",
+    "nome": "Bloodseeker"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Bounty_Hunter",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/bounty-hunter",
+    "nome": "Bounty Hunter"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Clinkz",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/clinkz",
+    "nome": "Clinkz"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Drow_Ranger",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/drow-ranger",
+    "nome": "Drow Ranger"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Ember_Spirit",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/ember-spirit",
+    "nome": "Ember Spirit"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Faceless_Void",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/faceless-void",
+    "nome": "Faceless Void"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Gyrocopter",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/gyrocopter",
+    "nome": "Gyrocopter"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Hoodwink",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/hoodwink",
+    "nome": "Hoodwink"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Juggernaut",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/juggernaut",
+    "nome": "Juggernaut"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Luna",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/luna",
+    "nome": "Luna"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Medusa",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/medusa",
+    "nome": "Medusa"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Meepo",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/meepo",
+    "nome": "Meepo"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Monkey_King",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/monkey-king",
+    "nome": "Monkey King"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Morphling",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/morphling",
+    "nome": "Morphling"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Naga_Siren",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/naga-siren",
+    "nome": "Naga Siren"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Phantom_Assassin",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/phantom-assassin",
+    "nome": "Phantom Assassin"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Phantom_Lancer",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/phantom-lancer",
+    "nome": "Phantom Lancer"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Razor",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/razor",
+    "nome": "Razor"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Riki",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/riki",
+    "nome": "Riki"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Shadow_Fiend",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/shadow-fiend",
+    "nome": "Shadow Fiend"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Slark",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/slark",
+    "nome": "Slark"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Sniper",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/sniper",
+    "nome": "Sniper"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Spectre",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/spectre",
+    "nome": "Spectre"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Templar_Assassin",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/templar-assassin",
+    "nome": "Templar Assassin"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Terrorblade",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/terrorblade",
+    "nome": "Terrorblade"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Troll_Warlord",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/troll-warlord",
+    "nome": "Troll Warlord"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Ursa",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/ursa",
+    "nome": "Ursa"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Viper",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/viper",
+    "nome": "Viper"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Weaver",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/weaver",
+    "nome": "Weaver"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Ancient_Apparition",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/ancient-apparition",
+    "nome": "Ancient Apparition"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Crystal_Maiden",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/crystal-maiden",
+    "nome": "Crystal Maiden"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Death_Prophet",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/death-prophet",
+    "nome": "Death Prophet"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Disruptor",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/disruptor",
+    "nome": "Disruptor"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Enchantress",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/enchantress",
+    "nome": "Enchantress"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Grimstroke",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/grimstroke",
+    "nome": "Grimstroke"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Jakiro",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/jakiro",
+    "nome": "Jakiro"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Keeper_of_the_Light",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/keeper-of-the-light",
+    "nome": "Keeper of the Light"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Leshrac",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/leshrac",
+    "nome": "Leshrac"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Lich",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/lich",
+    "nome": "Lich"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Lina",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/lina",
+    "nome": "Lina"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Lion",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/lion",
+    "nome": "Lion"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Muerta",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/muerta",
+    "nome": "Muerta"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Nature%27s_Prophet",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/nature%27s-prophet",
+    "nome": "Nature's Prophet"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Necrophos",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/necrophos",
+    "nome": "Necrophos"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Oracle",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/oracle",
+    "nome": "Oracle"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Outworld_Destroyer",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/outworld-destroyer",
+    "nome": "Outworld Destroyer"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Puck",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/puck",
+    "nome": "Puck"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Pugna",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/pugna",
+    "nome": "Pugna"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Queen_of_Pain",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/queen-of-pain",
+    "nome": "Queen of Pain"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Rubick",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/rubick",
+    "nome": "Rubick"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Shadow_Demon",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/shadow-demon",
+    "nome": "Shadow Demon"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Shadow_Shaman",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/shadow-shaman",
+    "nome": "Shadow Shaman"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Silencer",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/silencer",
+    "nome": "Silencer"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Skywrath_Mage",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/skywrath-mage",
+    "nome": "Skywrath Mage"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Storm_Spirit",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/storm-spirit",
+    "nome": "Storm Spirit"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Tinker",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/tinker",
+    "nome": "Tinker"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Warlock",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/warlock",
+    "nome": "Warlock"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Witch_Doctor",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/witch-doctor",
+    "nome": "Witch Doctor"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Zeus",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/zeus",
+    "nome": "Zeus"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Abaddon",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/abaddon",
+    "nome": "Abaddon"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Bane",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/bane",
+    "nome": "Bane"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Batrider",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/batrider",
+    "nome": "Batrider"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Beastmaster",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/beastmaster",
+    "nome": "Beastmaster"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Brewmaster",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/brewmaster",
+    "nome": "Brewmaster"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Broodmother",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/broodmother",
+    "nome": "Broodmother"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Chen",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/chen",
+    "nome": "Chen"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Clockwerk",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/clockwerk",
+    "nome": "Clockwerk"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Dark_Seer",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/dark-seer",
+    "nome": "Dark Seer"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Dark_Willow",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/dark-willow",
+    "nome": "Dark Willow"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Dazzle",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/dazzle",
+    "nome": "Dazzle"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Enigma",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/enigma",
+    "nome": "Enigma"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Invoker",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/invoker",
+    "nome": "Invoker"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Io",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/io",
+    "nome": "Io"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Lone_Druid",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/lone-druid",
+    "nome": "Lone Druid"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Lycan",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/lycan",
+    "nome": "Lycan"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Magnus",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/magnus",
+    "nome": "Magnus"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Marci",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/marci",
+    "nome": "Marci"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Mirana",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/mirana",
+    "nome": "Mirana"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Nyx_Assassin",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/nyx-assassin",
+    "nome": "Nyx Assassin"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Pangolier",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/pangolier",
+    "nome": "Pangolier"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Phoenix",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/phoenix",
+    "nome": "Phoenix"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Sand_King",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/sand-king",
+    "nome": "Sand King"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Snapfire",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/snapfire",
+    "nome": "Snapfire"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Techies",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/techies",
+    "nome": "Techies"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Timbersaw",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/timbersaw",
+    "nome": "Timbersaw"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Vengeful_Spirit",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/vengeful-spirit",
+    "nome": "Vengeful Spirit"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Venomancer",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/venomancer",
+    "nome": "Venomancer"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Visage",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/visage",
+    "nome": "Visage"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Void_Spirit",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/void-spirit",
+    "nome": "Void Spirit"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Windranger",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/windranger",
+    "nome": "Windranger"
+  },
+  {
+    "hrefFandom": "https://dota2.fandom.com/wiki/Winter_Wyvern",
+    "hrefDotabuff": "https://www.dotabuff.com/heroes/winter-wyvern",
+    "nome": "Winter Wyvern"
+  }
+]
